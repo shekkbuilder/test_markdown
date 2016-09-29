@@ -1,10 +1,11 @@
 # clamav_tools
 ClamAV related scripts and tools
 
---
+---
 
 ###clamav_to_yara.py
-```Download the latest ClamAV signature database:
+```
+Download the latest ClamAV signature database:
 wget http://database.clamav.net/main.cvd
 
 Use sigtool to unpack:
