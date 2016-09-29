@@ -2,8 +2,8 @@
 ClamAV related scripts and tools
 
 ---
-
 ###clamav_to_yara.py
+---
 ```
 Download the latest ClamAV signature database:
 wget http://database.clamav.net/main.cvd
